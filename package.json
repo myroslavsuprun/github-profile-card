@@ -1,5 +1,6 @@
 {
-  "name": "ts-course-proj-2",
+  "name": "github-profile-card",
+  "homepage": "https://myroslavsuprun.github.io/github-profile-card/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
