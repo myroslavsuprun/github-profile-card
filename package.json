@@ -1,6 +1,6 @@
 {
   "name": "ts-course-proj-2",
-  "version": "0.1.0",
+``  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "all": "^0.0.0",
